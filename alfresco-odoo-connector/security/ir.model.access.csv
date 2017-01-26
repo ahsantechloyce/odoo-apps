@@ -1,0 +1,3 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_alresco_upload,alresco_odoo.alfrescoupload,model_alfresco_upload,,1,0,0,0
+access_alresco_credentials,alresco_odoo.alfrescocredentials,model_alfresco_credentials,,1,0,0,0
